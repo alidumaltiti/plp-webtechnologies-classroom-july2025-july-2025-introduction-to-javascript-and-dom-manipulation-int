@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    margin: 5px 0;
+    padding: 8px 12px;
+    border: none;
+    background: steelblue;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: navy;
+}
+
+#dynamicText {
+    font-weight: bold;
+}
+
+.bg-toggled {
+    background-color: lightyellow;
+}
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: gray;
+    text-align: center;
+}
